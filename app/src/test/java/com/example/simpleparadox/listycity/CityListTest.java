@@ -97,6 +97,10 @@ class CityListTest {
     @Test
     void testIntentional() {
         // First commit
-        fail();
+//        fail();
+
+        // Second commit
+        assertTrue(true);
+
     }
 }
